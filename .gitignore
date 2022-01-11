@@ -1,3 +1,6 @@
+# ignore CSV folder
+CSV/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
