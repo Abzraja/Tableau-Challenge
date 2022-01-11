@@ -55,10 +55,12 @@ The times match nicely with this beating heart visualision of the Manhattan popu
 ### Tableau Chart Examples
 Below are 2 examples of the charts made using Tableau
 <img src="Images/popular-stations.png" width="600">
+<br />
 Map chart showing the most popular Citibike stations.
 <br />
 
 <img src="Images/journey-hours.png" width="600">
+<br />
 Bar chart showing average number of trips for each hour of the day.
 
 
